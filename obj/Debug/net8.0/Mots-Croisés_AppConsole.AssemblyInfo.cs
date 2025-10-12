@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mots-Croisés_AppConsole")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a17fffd1a9f810b19b83c546db09bf57e15222a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mots-Croisés_AppConsole")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mots-Croisés_AppConsole")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

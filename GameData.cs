@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using static MotsCroises.WordLoader;
 
 namespace MotsCroises
 {
@@ -20,14 +21,8 @@ namespace MotsCroises
         public static string[,] Grille;
 
         // Mots et progression
-        public static List<string> MotsDisponibles = new List<string>
-        {
-            "jouer", "lire", "maman", "magique", "symphonie", "pasteur", "chemise",
-            "programme", "linux", "renard", "bonjour", "maison", "voiture", "arbre",
-            "fleur", "paysage", "mer", "soleil", "nuage", "oiseau", "chat", "chien",
-            "livre", "ecole", "professeur", "etudiant", "ordinateur", "telephone",
-            "musique", "amour"
-        };
+        public static List<string> MotsDisponibles =
+    GetRandomWords() ?? new List<string>(); 
 
         public static List<MotPlace> MotsPlaces = new List<MotPlace>();
         public static HashSet<string> MotsTrouves = new HashSet<string>();

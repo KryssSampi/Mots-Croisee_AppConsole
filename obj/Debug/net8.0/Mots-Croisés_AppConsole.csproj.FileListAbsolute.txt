@@ -12,3 +12,4 @@ E:\kryss Pc\Personnal\Mots-Croisés_AppConsole\obj\Debug\net8.0\refint\Mots-Croi
 E:\kryss Pc\Personnal\Mots-Croisés_AppConsole\obj\Debug\net8.0\Mots-Croisés_AppConsole.pdb
 E:\kryss Pc\Personnal\Mots-Croisés_AppConsole\obj\Debug\net8.0\Mots-Croisés_AppConsole.genruntimeconfig.cache
 E:\kryss Pc\Personnal\Mots-Croisés_AppConsole\obj\Debug\net8.0\ref\Mots-Croisés_AppConsole.dll
+E:\kryss Pc\Personnal\Mots-Croisés_AppConsole\obj\Debug\net8.0\Mots-Croisés_AppConsole.sourcelink.json
