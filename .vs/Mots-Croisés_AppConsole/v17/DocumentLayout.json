@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\kryss Pc\\Personnal\\Mots-Crois\u00E9s_AppConsole\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE50FC43-E257-4C8D-8D5F-527A4ADB2C76}|Mots-Crois\u00E9s_AppConsole.csproj|e:\\kryss pc\\personnal\\mots-crois\u00E9s_appconsole\\gridgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE50FC43-E257-4C8D-8D5F-527A4ADB2C76}|Mots-Crois\u00E9s_AppConsole.csproj|solutionrelative:gridgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE50FC43-E257-4C8D-8D5F-527A4ADB2C76}|Mots-Crois\u00E9s_AppConsole.csproj|e:\\kryss pc\\personnal\\mots-crois\u00E9s_appconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE50FC43-E257-4C8D-8D5F-527A4ADB2C76}|Mots-Crois\u00E9s_AppConsole.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE50FC43-E257-4C8D-8D5F-527A4ADB2C76}|Mots-Crois\u00E9s_AppConsole.csproj|e:\\kryss pc\\personnal\\mots-crois\u00E9s_appconsole\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE50FC43-E257-4C8D-8D5F-527A4ADB2C76}|Mots-Crois\u00E9s_AppConsole.csproj|solutionrelative:gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE50FC43-E257-4C8D-8D5F-527A4ADB2C76}|Mots-Crois\u00E9s_AppConsole.csproj|e:\\kryss pc\\personnal\\mots-crois\u00E9s_appconsole\\gamelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE50FC43-E257-4C8D-8D5F-527A4ADB2C76}|Mots-Crois\u00E9s_AppConsole.csproj|solutionrelative:gamelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE50FC43-E257-4C8D-8D5F-527A4ADB2C76}|Mots-Crois\u00E9s_AppConsole.csproj|e:\\kryss pc\\personnal\\mots-crois\u00E9s_appconsole\\display.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE50FC43-E257-4C8D-8D5F-527A4ADB2C76}|Mots-Crois\u00E9s_AppConsole.csproj|solutionrelative:display.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 267,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameData.cs",
+              "DocumentMoniker": "E:\\kryss Pc\\Personnal\\Mots-Crois\u00E9s_AppConsole\\GameData.cs",
+              "RelativeDocumentMoniker": "GameData.cs",
+              "ToolTip": "E:\\kryss Pc\\Personnal\\Mots-Crois\u00E9s_AppConsole\\GameData.cs",
+              "RelativeToolTip": "GameData.cs",
+              "ViewState": "AgIAAK0AAAAAAAAAAAAQwMIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T20:01:15.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameLogic.cs",
+              "DocumentMoniker": "E:\\kryss Pc\\Personnal\\Mots-Crois\u00E9s_AppConsole\\GameLogic.cs",
+              "RelativeDocumentMoniker": "GameLogic.cs",
+              "ToolTip": "E:\\kryss Pc\\Personnal\\Mots-Crois\u00E9s_AppConsole\\GameLogic.cs",
+              "RelativeToolTip": "GameLogic.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAQwKMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T20:00:39.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Display.cs",
+              "DocumentMoniker": "E:\\kryss Pc\\Personnal\\Mots-Crois\u00E9s_AppConsole\\Display.cs",
+              "RelativeDocumentMoniker": "Display.cs",
+              "ToolTip": "E:\\kryss Pc\\Personnal\\Mots-Crois\u00E9s_AppConsole\\Display.cs",
+              "RelativeToolTip": "Display.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAQwLUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T20:00:03.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GridGenerator.cs",
+              "DocumentMoniker": "E:\\kryss Pc\\Personnal\\Mots-Crois\u00E9s_AppConsole\\GridGenerator.cs",
+              "RelativeDocumentMoniker": "GridGenerator.cs",
+              "ToolTip": "E:\\kryss Pc\\Personnal\\Mots-Crois\u00E9s_AppConsole\\GridGenerator.cs",
+              "RelativeToolTip": "GridGenerator.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAANwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T19:59:30.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\kryss Pc\\Personnal\\Mots-Crois\u00E9s_AppConsole\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\kryss Pc\\Personnal\\Mots-Crois\u00E9s_AppConsole\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T19:57:44.52Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

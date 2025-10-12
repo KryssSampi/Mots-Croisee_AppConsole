@@ -1,0 +1,14 @@
+E:\kryss Pc\Personnal\Mots-Croisés_AppConsole\bin\Debug\net8.0\Mots-Croisés_AppConsole.exe
+E:\kryss Pc\Personnal\Mots-Croisés_AppConsole\bin\Debug\net8.0\Mots-Croisés_AppConsole.deps.json
+E:\kryss Pc\Personnal\Mots-Croisés_AppConsole\bin\Debug\net8.0\Mots-Croisés_AppConsole.runtimeconfig.json
+E:\kryss Pc\Personnal\Mots-Croisés_AppConsole\bin\Debug\net8.0\Mots-Croisés_AppConsole.dll
+E:\kryss Pc\Personnal\Mots-Croisés_AppConsole\bin\Debug\net8.0\Mots-Croisés_AppConsole.pdb
+E:\kryss Pc\Personnal\Mots-Croisés_AppConsole\obj\Debug\net8.0\Mots-Croisés_AppConsole.GeneratedMSBuildEditorConfig.editorconfig
+E:\kryss Pc\Personnal\Mots-Croisés_AppConsole\obj\Debug\net8.0\Mots-Croisés_AppConsole.AssemblyInfoInputs.cache
+E:\kryss Pc\Personnal\Mots-Croisés_AppConsole\obj\Debug\net8.0\Mots-Croisés_AppConsole.AssemblyInfo.cs
+E:\kryss Pc\Personnal\Mots-Croisés_AppConsole\obj\Debug\net8.0\Mots-Croisés_AppConsole.csproj.CoreCompileInputs.cache
+E:\kryss Pc\Personnal\Mots-Croisés_AppConsole\obj\Debug\net8.0\Mots-Croisés_AppConsole.dll
+E:\kryss Pc\Personnal\Mots-Croisés_AppConsole\obj\Debug\net8.0\refint\Mots-Croisés_AppConsole.dll
+E:\kryss Pc\Personnal\Mots-Croisés_AppConsole\obj\Debug\net8.0\Mots-Croisés_AppConsole.pdb
+E:\kryss Pc\Personnal\Mots-Croisés_AppConsole\obj\Debug\net8.0\Mots-Croisés_AppConsole.genruntimeconfig.cache
+E:\kryss Pc\Personnal\Mots-Croisés_AppConsole\obj\Debug\net8.0\ref\Mots-Croisés_AppConsole.dll
