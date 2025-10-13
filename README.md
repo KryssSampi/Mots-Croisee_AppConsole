@@ -1,13 +1,12 @@
 # Mots-Croisee_AppConsole
 Imaginez un jeu de mots croisés qui ne se répète jamais. Chaque partie génère une grille entièrement nouvelle avec une disposition algorithmique sophistiquée. Pas de grilles préconçues, pas de répétition — juste de l'amusement pur et imprévisible.
----
 
 # MOTS CROISÉS DYNAMIQUES  
 ### Génération Procédurale Infinie de Grilles de Mots
 
-![Image 1](./Demo/Niv_1.png)  
-![Image 2](./Demo/Niv_2.png)  
-![Image 3](./Demo/Niv_3.png)
+![Image 1](./Demo/Simply_Game.png)  
+![Image 2](./Demo/Cheat_Activate.png)  
+
 
 ---
 
